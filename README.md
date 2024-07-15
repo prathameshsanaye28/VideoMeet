@@ -8,8 +8,7 @@ To run the app
 Overview
 1. Login/Sign Up
 If have an account then login otherwise sign up using email and password and then login to the app.
-![WhatsApp Image 2024-07-15 at 17 32 13_df866d83](https://github.com/user-attachments/assets/fa513f17-fe7c-4ed9-8542-7a0434bfa318)
-
+<img src = "https://github.com/user-attachments/assets/fa513f17-fe7c-4ed9-8542-7a0434bfa318" width="200">
 
 3. Home Screen
 On the home screen there are options to join or to create a meeting. 
